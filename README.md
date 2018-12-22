@@ -2,6 +2,9 @@
 
 『NodeParty 中国』分支项目，通过一定的激励，鼓励在此为社区输出原创文章或外文翻译。
 
+> 此项目的资金支出由[『NodeParty 中国』开源基金会](https://github.com/NodeParty-China/Node-OpenSource-Foundation) 提供，我们的所有收入支出都会按照严格流程管理，并将其用于促进社区发展。
+
+
 ## 流程
 
 在此投稿文章经过审核可获得基金会奖励
