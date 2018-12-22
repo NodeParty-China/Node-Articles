@@ -14,7 +14,7 @@
 
 ### 领取方式
 
- * 在NodeParty文章项目的 github 地址 http://article.nodeparty.cn 中发起 issues，标题即文章标题，并附上文章内容。
+ * 在此项目中发起 issues，标题即文章标题，并附上文章内容。
  * 然后在基金会的 github 项目 http://foundation.nodeparty.cn 中发起 issues，标题：基金会原创文章投稿奖励申请
  * 并在内容中注明文章 issues 的地址和支付宝付款信息（如需保密可留下邮箱联系）。
  * 管理员会核查无误，将款项打入支付宝，并将此次支出记录在基金会主页中（以及 PR 链接等信息），并关闭 issues
