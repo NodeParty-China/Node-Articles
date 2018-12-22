@@ -1,6 +1,6 @@
 # Node-Articles
 
-『NodeParty 中国』分支，在此首发并且原创的与 Nodejs 或 Javascript 话题有关的技术文章（翻译也可）
+『NodeParty 中国』分支项目，通过一定的激励，鼓励在此为社区输出原创文章或外文翻译。
 
 ## 流程
 
